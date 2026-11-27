@@ -20,7 +20,7 @@ TypeScript, web application, API, PostgreSQL, Render
 
 ## My contribution
 
-Founder and product owner: product strategy, requirements, AI-assisted engineering direction, quality and releases.
+Founder and product owner: product strategy, requirements, engineering direction, quality and releases.
 
 ## Scope and transparency
 
